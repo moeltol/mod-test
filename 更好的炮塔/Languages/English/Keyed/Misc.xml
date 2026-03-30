@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TurretSmartSettings>Turret Settings</TurretSmartSettings>
+  <TurretSmart_EnhancedAccuracy>Enable Enhanced Accuracy</TurretSmart_EnhancedAccuracy>
+  <TurretSmart_AccuracyMultiplier>Accuracy Multiplier: {0}x</TurretSmart_AccuracyMultiplier>
+  <TurretSmart_PreventFriendlyFire>Prevent Friendly Fire</TurretSmart_PreventFriendlyFire>
+  <TurretSmart_WallDamageMultiplier>Wall Damage Multiplier: {0}%</TurretSmart_WallDamageMultiplier>
+  <TurretSmart_PreventSelfDestruct>Prevent Turret Self-Destruct</TurretSmart_PreventSelfDestruct>
+  <TurretSmart_TargetBodyPart>Target Body Part: {0}</TurretSmart_TargetBodyPart>
+  <TurretSmart_BodyPart_None>None (Vanilla)</TurretSmart_BodyPart_None>
+  <TurretSmart_BodyPart_Head>Head</TurretSmart_BodyPart_Head>
+  <TurretSmart_BodyPart_Torso>Torso</TurretSmart_BodyPart_Torso>
+  <TurretSmart_BodyPart_Arms>Arms</TurretSmart_BodyPart_Arms>
+  <TurretSmart_BodyPart_Legs>Legs</TurretSmart_BodyPart_Legs>
+  <TurretSmart_BodyPart_Heart>Heart</TurretSmart_BodyPart_Heart>
+  <TurretSmart_BodyPart_Brain>Brain</TurretSmart_BodyPart_Brain>
+</LanguageData>

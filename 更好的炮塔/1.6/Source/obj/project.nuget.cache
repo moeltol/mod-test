@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRWxKKVdHEM=",
+  "success": true,
+  "projectFilePath": "D:\\mod zhizuo\\更好的炮塔\\1.6\\Source\\TurretSmart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\代祺佳\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\代祺佳\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\代祺佳\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
