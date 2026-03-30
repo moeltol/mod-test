@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TurretSmartSettings>炮塔智能设置</TurretSmartSettings>
+  <TurretSmart_EnhancedAccuracy>启用增强精度</TurretSmart_EnhancedAccuracy>
+  <TurretSmart_AccuracyMultiplier>精度倍率: {0}x</TurretSmart_AccuracyMultiplier>
+  <TurretSmart_PreventFriendlyFire>防止误伤友军</TurretSmart_PreventFriendlyFire>
+  <TurretSmart_WallDamageMultiplier>墙体伤害倍率: {0}%</TurretSmart_WallDamageMultiplier>
+  <TurretSmart_PreventSelfDestruct>防止炮塔殉爆</TurretSmart_PreventSelfDestruct>
+  <TurretSmart_TargetBodyPart>优先攻击部位: {0}</TurretSmart_TargetBodyPart>
+  <TurretSmart_BodyPart_None>无（使用原版逻辑）</TurretSmart_BodyPart_None>
+  <TurretSmart_BodyPart_Head>头部</TurretSmart_BodyPart_Head>
+  <TurretSmart_BodyPart_Torso>躯干</TurretSmart_BodyPart_Torso>
+  <TurretSmart_BodyPart_Arms>双臂</TurretSmart_BodyPart_Arms>
+  <TurretSmart_BodyPart_Legs>双腿</TurretSmart_BodyPart_Legs>
+  <TurretSmart_BodyPart_Heart>心脏</TurretSmart_BodyPart_Heart>
+  <TurretSmart_BodyPart_Brain>大脑</TurretSmart_BodyPart_Brain>
+</LanguageData>

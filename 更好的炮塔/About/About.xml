@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>更好的炮塔</name>
+	<author>zichen</author>
+	<packageId>TurretSmart</packageId>
+	<description>大幅提升我方炮塔的作战能力：
+
+• 超高精度：应用精度倍率修正，让我方炮塔几乎百发百中
+• 友军保护：炮塔不会误伤友军、中立单位或盟友，只会攻击敌对目标
+• 墙体保护：大幅降低炮塔对建筑墙体的伤害，避免阵地被自己的炮火破坏
+• 防殉爆：我方炮塔被摧毁时不会发生爆炸，避免造成二次伤害
+• 部位打击：可设置炮塔优先攻击目标的特定部位（头部、躯干、双臂、双腿、心脏、大脑）
+
+所有设置均可自由调整。</description>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Core</li>
+	</loadAfter>
+</ModMetaData>

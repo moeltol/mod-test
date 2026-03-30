@@ -1,0 +1,10 @@
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.csproj.AssemblyReference.cache
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.GeneratedMSBuildEditorConfig.editorconfig
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.AssemblyInfoInputs.cache
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.AssemblyInfo.cs
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.csproj.CoreCompileInputs.cache
+d:\mod zhizuo\更好的炮塔\1.6\Assemblies\TurretSmart.dll
+d:\mod zhizuo\更好的炮塔\1.6\Assemblies\TurretSmart.pdb
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSm.761AE3A4.Up2Date
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.dll
+d:\mod zhizuo\更好的炮塔\1.6\Source\obj\Release\TurretSmart.pdb
